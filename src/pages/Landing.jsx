@@ -17,9 +17,7 @@ function Landing() {
               job <span>tracking</span> app
             </h1>
             <p>
-              Crucifix narwhal street art asymmetrical, humblebrag tote bag
-              pop-up fixie raclette taxidermy craft beer. Brunch bitters synth,
-              VHS crucifix heirloom meggings bicycle rights.
+             Introducing the ultimate job search app, seamlessly connecting seekers and employers. Tailored algorithms match skills to positions, streamlining the hiring process. Personalized notifications alert users to relevant opportunities. User-friendly interface, intuitive navigation, and real-time updates make job hunting efficient. Elevate your career with our innovative job search app today!
             </p>
             <Link to="/register" className="btn btn-hero">
               Login/Register
