@@ -1,13 +1,11 @@
-import logo from "../assets/images/logo.svg";
-
 const Logo = () => {
   return (
     <img
-      src={logo}
+      src="https://cdn-icons-png.flaticon.com/512/7556/7556935.png"
       alt="jobster logo"
       className="logo"
-      width={"25px"}
-      height={"25px"}
+      width={"55px"}
+      height={"55px"}
     />
   );
 };
