@@ -25,7 +25,11 @@ function Landing() {
               Login/Register
             </Link>
           </div>
-          <img src="" alt="job hunt" className="img main-img" />
+         <img
+            src="https://cdn-icons-png.flaticon.com/512/2936/2936630.png"
+            alt="job hunt"
+            className="img main-img"
+          />
         </div>
       </Wrapper>
     </>
